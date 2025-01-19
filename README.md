@@ -1,6 +1,6 @@
 # Oark Library
 
-**Educational & Academic Digital Resource Platform (2020-2024)**
+**Educational & Academic Digital Resource Platform (Dec 2024)**
 
 Oark Library was a digital store for educational and academic resources, serving over 50,000 users worldwide with access to 400,000+ digital materials including papers, books, documents, videos, and audio resources.
 
